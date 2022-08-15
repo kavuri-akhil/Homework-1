@@ -1,3 +1,10 @@
+- [Case Study of Robinhood Markets](#case-study-of-robinhood-markets)
+  * [Overview and Origin](#overview-and-origin)
+  * [Business Activities:](#business-activities-)
+  * [Landscape:](#landscape-)
+  * [Results](#results)
+  * [Recommendations](#recommendations)
+
 # Case Study of Robinhood Markets
 
 ## Overview and Origin
