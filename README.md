@@ -25,6 +25,7 @@ According to (Amazon, 2016), Amazon AWS is used by Robinhood to operate online b
 The table below shows the software and its purpose according to (StackShare, n.d.). 
 
 |Software | Purpose|
+| -------------------- | -------------------------------------------------------------------|
 |Amazon EC2|Used to compute capacity in cloud|Kotlin |To statically type programming language targeting|
 |NGINX|Used as a open source web server to power the website|
 |Faust|Used as a Python library to build streamlined applications|
