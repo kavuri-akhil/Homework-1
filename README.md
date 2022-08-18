@@ -1,4 +1,4 @@
-- [Case Study of Robinhood Markets](#case-study-of-robinhood-markets)
+- [Case Study on Robinhood Markets](#case-study-on-robinhood-markets)
   * [Overview and Origin](#overview-and-origin)
   * [Business Activities:](#business-activities-)
   * [Landscape:](#landscape-)
@@ -7,7 +7,7 @@
   * [References](#references)
   
  
-# Case Study of Robinhood Markets
+# Case Study on Robinhood Markets
 
 ## Overview and Origin
 
@@ -73,20 +73,33 @@ It would require a dedicated customer support team who will assist its customers
 
 
 ## References
-Amazon. (2016). AWS. Retrieved August 15, 2022, from https://aws.amazon.com/solutions/case-studies/robinhood/
-Culas, V. (2020, February 10). A better way to assess OMR broker performance. Matthews South. Retrieved August 18, 2022, from https://matthewssouth.com/a-better-way-to-assess-omr-broker-performance/
-Curry, D. (2022, June 30). Robinhood Revenue and Usage Statistics (2022). Business of Apps. Retrieved August 15, 2022, from https://www.businessofapps.com/data/robinhood-statistics/
-Davis, C. (2022, May 31). Robinhood Review 2022: Pros, Cons and How It Compares. NerdWallet. Retrieved August 15, 2022, from https://www.nerdwallet.com/reviews/investing/brokers/robinhood
-Divine, J. (2019, October 17). How Robinhood Changed an Industry. US News Money. Retrieved August 18, 2022, from https://money.usnews.com/investing/investing-101/articles/how-robinhood-changed-an-industry
-Fast Company. (n.d.). Fast Company. Retrieved August 15, 2022, from https://www.fastcompany.com/company/robinhood
-Flores, F. (n.d.). Robinhood Reviewed: The Good and The Bad. Investopedia. Retrieved August 18, 2022, from https://www.investopedia.com/robinhood-review-4587919
-Forbes. (n.d.). Forbes. Retrieved August 15, 2022, from https://www.forbes.com/sites/greatspeculations/2021/07/23/how-does-robinhood-markets-make-money/?sh=2a478c4d2d13
-Horton, M. (2021, April 29). What Are the 9 Major Types of Financial Institutions? Investopedia. Retrieved August 18, 2022, from https://www.investopedia.com/ask/answers/061615/what-are-major-categories-financial-institutions-and-what-are-their-primary-roles.asp
-Huang, D. (2015, January 6). Young, Poor and Looking to Invest? Robinhood Is the App for That. Wall Street Journal. Retrieved August 15, 2022, from https://www.wsj.com/articles/BL-MBB-31486
-Our Story. (n.d.). Robinhood. Retrieved August 15, 2022, from https://robinhood.com/us/en/support/articles/our-story/
-Rekenthaler, J. (2021, August 5). How the Robinhood Era Is Changing Stock-Market Investing. Morningstar. Retrieved August 18, 2022, from https://www.morningstar.com/articles/1032245/how-the-robinhood-era-is-changing-stock-market-investing
-StackShare. (n.d.). StackShare. Retrieved August 15, 2022, from https://stackshare.io/companies/robinhood
-Wikipedia. (n.d.). Robinhood Wikipedia. Retrieved August 15, 2022, from https://en.wikipedia.org/wiki/Robinhood_Markets
+1 : Amazon. (2016). AWS. Retrieved August 15, 2022, from https://aws.amazon.com/solutions/case-studies/robinhood/
+
+2 : Culas, V. (2020, February 10). A better way to assess OMR broker performance. Matthews South. Retrieved August 18, 2022, from https://matthewssouth.com/a-better-way-to-assess-omr-broker-performance/
+
+3 : Curry, D. (2022, June 30). Robinhood Revenue and Usage Statistics (2022). Business of Apps. Retrieved August 15, 2022, from https://www.businessofapps.com/data/robinhood-statistics/
+
+4 : Davis, C. (2022, May 31). Robinhood Review 2022: Pros, Cons and How It Compares. NerdWallet. Retrieved August 15, 2022, from https://www.nerdwallet.com/reviews/investing/brokers/robinhood
+
+5 : Divine, J. (2019, October 17). How Robinhood Changed an Industry. US News Money. Retrieved August 18, 2022, from https://money.usnews.com/investing/investing-101/articles/how-robinhood-changed-an-industry
+
+6 : Fast Company. (n.d.). Fast Company. Retrieved August 15, 2022, from https://www.fastcompany.com/company/robinhood
+
+7 : Flores, F. (n.d.). Robinhood Reviewed: The Good and The Bad. Investopedia. Retrieved August 18, 2022, from https://www.investopedia.com/robinhood-review-4587919
+
+8 : Forbes. (n.d.). Forbes. Retrieved August 15, 2022, from https://www.forbes.com/sites/greatspeculations/2021/07/23/how-does-robinhood-markets-make-money/?sh=2a478c4d2d13
+
+9 : Horton, M. (2021, April 29). What Are the 9 Major Types of Financial Institutions? Investopedia. Retrieved August 18, 2022, from https://www.investopedia.com/ask/answers/061615/what-are-major-categories-financial-institutions-and-what-are-their-primary-roles.asp
+
+10 : Huang, D. (2015, January 6). Young, Poor and Looking to Invest? Robinhood Is the App for That. Wall Street Journal. Retrieved August 15, 2022, from https://www.wsj.com/articles/BL-MBB-31486
+
+11 : Our Story. (n.d.). Robinhood. Retrieved August 15, 2022, from https://robinhood.com/us/en/support/articles/our-story/
+
+12 : Rekenthaler, J. (2021, August 5). How the Robinhood Era Is Changing Stock-Market Investing. Morningstar. Retrieved August 18, 2022, from https://www.morningstar.com/articles/1032245/how-the-robinhood-era-is-changing-stock-market-investing
+
+13 : StackShare. (n.d.). StackShare. Retrieved August 15, 2022, from https://stackshare.io/companies/robinhood
+
+14 : Wikipedia. (n.d.). Robinhood Wikipedia. Retrieved August 15, 2022, from https://en.wikipedia.org/wiki/Robinhood_Markets
 
 
 
