@@ -1,7 +1,7 @@
 - [Case Study on Robinhood Markets](#case-study-on-robinhood-markets)
   * [Overview and Origin](#overview-and-origin)
-  * [Business Activities:](#business-activities-)
-  * [Landscape:](#landscape-)
+  * [Business Activities](#business-activities-)
+  * [Landscape](#landscape-)
   * [Results](#results)
   * [Recommendations](#recommendations)
   * [References](#references)
@@ -20,7 +20,7 @@ As per (Huang, 2015), Robinhood is a Silicon Valley upstart which was initially 
 According to (Wikipedia, n.d.), Robbinhood raised $110 Million at a valuation by DST Global, In 2018, Robinhood raised a funding of $539 million in venture capital funding. 
 (Forbes, n.d.) Stated that the revenue of Robinhood in 2021 Q1 is $420 million which was increased by 340% compared to previous year. Robinhood declared that it has US$ 98 Billion in assets under management at the end of Q4 2021.
 
-## Business Activities:
+## Business Activities
 
 As per (StackShare, n.d.) Robinhood mentioned that it started with a simple idea to use technology and cut out extra costs that other financial services use like legacy technology, hundreds of storefronts. 
 (Fast Company, n.d.) mentioned that Robinhood wanted to help everyone to enter into financial markets with its mission to democratize finance as most of the Wall Street Firms Charge commission for every trade leaving their investors with less profits even though the firms pay nothing to trade. 
@@ -51,7 +51,7 @@ The table below shows the software and its purpose according to (StackShare, n.d
 |Memcached|Used as a distributed memory caching system|
 |Redux|Used to predict state contained for applications|
 
-## Landscape:
+## Landscape
 
 According to (Horton, 2021), Robinhood falls under the category of Brokerage Firms who will assist individuals or organizations in purchasing or selling securities. 
 As per (Divine, 2019), the major innovations in the brokerage domain are the features offered which revolutionized the industry. Few of such features include margin buying, crypto trading and no account minimums which attracted millions of users on to the platform. 
